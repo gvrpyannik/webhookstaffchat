@@ -1,0 +1,8 @@
+add_ace admin admin allow
+add_ace admin staff allow
+add_ace mod admin allow
+add_ace mod staff allow
+
+
+add_principal identifier.steam:110000000000000 admin
+add_principal identifier.steam:110000000000000 mod
